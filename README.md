@@ -13,10 +13,10 @@ ___REFERRAL LINK___
 
 ## ㅤ
 
-___Update System Packages and Install SCRIPT___
+___ABNAWLENYA EDİN HOKMAN__
 
 ```
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./hehe
+apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/januda-ui/DRAGON-VPS-MANAGER/main/hehe; chmod 777 hehe;./HAHA
 
 ```
 
