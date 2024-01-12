@@ -1,4 +1,4 @@
-## ◇────── DRAGON VPS MANAGER ───────◇
+## ◇────── TKM BEGO VPS MANAGER ───────◇
 
 ㅤ
 <p align="left">
